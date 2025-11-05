@@ -1,7 +1,25 @@
-# 🐧 Pingu Expedition @ DSC 2025
+# 🐧 Pingu Expedition @ DSC — Workshop Training Repository
 
-Welcome to the repository of our **Pingu Research Group**, a team dedicated to advancing scientific knowledge through field expeditions focused on penguin habitats, behavior, and environmental changes.
+*Note: This repository is used for a hands-on collaboration exercise in the DSC Git & GitHub workshop.  
+It simulates how research teams co-develop shared project materials.  
+The repository is temporary and will be removed or made private after the workshop.*
 
-This repository serves as a collaborative hub for our research activities. Over time, it will grow to include expedition folders documenting fieldwork and collecting data.  
+---
 
-Stay curious and stay warm out there! 🧊🐧
+The **Pingu Research Group** explores penguin habitats, behaviors, and — very importantly — their preferred nicknames.  
+During this workshop, we form small **expedition teams** and contribute to a **shared knowledge base** documenting our field expeditions.
+
+Each team works in its own branch, adding a folder `Expedition_your-name/` for their expedition that contains:
+- a short written field note (`Doc.md`),
+- a table with a small set of penguin traits in `Data.csv`,
+- and one or two open-license images in `Images/`.
+
+At the end, contributions are brought together using Pull Requests, merging each expedition branch into the main project repository.
+
+Be curious.  
+Be collaborative.  
+Be kind.  
+Ask questions.
+And stay warm out there.  
+
+🧊🐧
