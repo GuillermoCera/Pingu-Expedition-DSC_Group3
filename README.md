@@ -2,7 +2,7 @@
 
 *Note: This repository is used for a hands-on collaboration exercise in the DSC Git & GitHub workshop.  
 It simulates how research teams co-develop shared project materials.  
-The repository is temporary and will be removed or made private after the workshop.*
+The repository is temporary and content will be removed after the workshop.*
 
 ---
 
@@ -23,3 +23,4 @@ Ask questions.
 And stay warm out there.  
 
 🧊🐧
+
